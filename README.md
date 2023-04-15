@@ -24,7 +24,7 @@ https://www.youtube.com/@DaveGrayTeachesCode
 ###  4. Start with a CSS Reset <Code更動>
         設定 CSS 重置
 
-###  5. body element styles
+###  5. body element styles <Code更動>
         設定 margin 的上方、右方、下方和左方均為 0.5rem
         設定字體族群為 "Roboto", sans-serif
         設定文字置中
